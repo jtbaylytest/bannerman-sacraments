@@ -1,16 +1,8 @@
-# The Educational Systems of the Puritans and Jesuits Compared
+# The Sacraments
 
-by [Rev. Noah Thomas Porter, III](https://en.wikipedia.org/wiki/Noah_Porter) \(11th president of Yale University, 1871–1886\)
+An excerpt from *Church of Christ*
+(not 1000 pages)
 
-Source: [The Internet Archive](https://archive.org/details/educationalsyste00portrich)
+by James Bannerman
 
-Published: 1851.
-
- 
-
----
-
-### My reaction
-
-This book was a real disappointment. It was interesting in parts, but it didn't tell me much of anything about the educational system of the Jesuits. It seems like Noah Porter was and is considered to be something of a crank, and that's how he comes off in this essay.
-
+Published: 1868.
