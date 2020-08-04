@@ -6,3 +6,6 @@ An excerpt from *Church of Christ*
 by James Bannerman
 
 Published: 1868.
+
+Available for your reading pleasure here:
+http://beggarsborn.com/bannerman-sacraments/
