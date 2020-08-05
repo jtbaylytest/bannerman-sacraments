@@ -11,7 +11,6 @@ link-citations: yes
 github-repo: ldweeks/bannerman-sacraments
 description: "At the end of section 3 of James Bannerman's *Church of Christ* is this masterful section on the sacraments."
 cover-image: "images/cover.png"
-mainfont: LiberationSerif
 ---
 
 # [A Warhorn Historicals Book](https://historicals.warhornmedia.com/) {-}
