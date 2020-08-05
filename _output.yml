@@ -7,7 +7,7 @@ bookdown::gitbook:
         <li><a href="./">The Sacraments — James Bannerman</a></li>
       after: |
         <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
-    edit: https://github.com/ldweeks/bannerman-sacraments/edit/master/%s
+    edit: https://github.com/warhornmedia/bannerman-sacraments/edit/master/%s
     sharing:
       facebook: yes
       github: no
