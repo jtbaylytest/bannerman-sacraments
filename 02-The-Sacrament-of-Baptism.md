@@ -289,9 +289,9 @@ Carrying these remarks along with us, nothing more is necessary, in regard to th
 
 [^61]: 1 Cor. i. 16; Acts ii. 38, 39, xvii. 15-33.
 
-[^62]: 
+[^62]: Acts xvi. 15.
 
-[^63]: 
+[^63]: Williams, *Antipaed. Exam*. Shrewsb. 1789, vol. i. pp. 199-232. Wilson, *Inf. Baptism*, Lond. 1848, pp. 517-523. Wardlaw, *Dissert. on Inf. Baptism*, 3d ed. pp. 102-130. [Apollonii, Consideratio, Lond. 1G44, pp. 99-105. Hoornbeek, Epistola de Independenfismo, Lugdun. Batav. 1660, pp. 313-350. Owen, Works, Goold's ed., vol. xvi. pp. 258-268. Gillespie, Miscell. Quest. chap, xvii.]
 
 ## Objections To Infant Baptism
 
@@ -408,6 +408,6 @@ The evidence by which the position which I have laid down on this subject can be
 
 In conclusion, I remark, that many take up what appears to me a wrong ground on this question, in seeking first to prove that the word βαπτιζω, in the whole wide field in which it occurs, sometimes means to immerse, sometimes to wash, sometimes to sprinkle or pour; and then drawing from that the inference that we may lawfully baptize in any of these ways. It may be perfectly true that in profane literature the word has several meanings, but it by no means follows from that fact that, when used ecclesiastically, and applied definitely to one thing, it has more meanings than one. As employed to denote a definite religious rite, the term Baptism must have but one definite signification. And whatever we hold that to be, we must adhere to it throughout, and in all cases in which the word occurs. The true meaning of Baptism in the New Testament I believe to be purification or cleansing. That purification may be effected either by sprinkling or by immersion, according to the dictates of Christian expediency. The command to baptize is a generic command, which may be carried out in either way with equal lawfulness.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5MjYxNjAzOCw3ODg5NjA5ODAsMTQwNj
-U2MDI5OSwxNzgyMzY1MjddfQ==
+eyJoaXN0b3J5IjpbLTc1Nzg5NDk4LDc4ODk2MDk4MCwxNDA2NT
+YwMjk5LDE3ODIzNjUyN119
 -->
