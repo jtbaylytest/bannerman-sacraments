@@ -205,15 +205,11 @@ This proof is sufficient in the absence of any statute of limitation alleged to 
 
 [^43]: Matt. xix. 14; Mark x. 14; Luke xviii. 16.
 
-[^44]: [Carson, *Baptism in its Mode and Subjects*, Lond.18-44,pp.199-202.]
+[^44]: [Carson, *Baptism in its Mode and Subjects*, Lond. 1844, pp. 199-202.]
 
-[^45]: [Vide Calvin, in loc.']
+[^45]: [*Vide* Calvin, *in loc*.]
 
-[^46]: \Villiams, Antipxd. Exam. vol. i. pp. 272-321, 331-3o6, "Wardlaw,
-
-[
-
-Dissert, on Inf. Baptism, 8d ed. pp. 117-120.
+[^46]: Williams, *Antipaed. Exam.* vol. i. pp. 272-321, 334-356. Wardlaw, *Dissert. on Inf. Baptism*, 3d ed. pp. 117-120.
 
 The two propositions, which we have already had under consideration, established as we believe them to be by Scripture evidence, go very far indeed, taken by themselves, to decide the question as to the lawfulness of infant Baptism. If infants as well as their parents have an interest in God's covenant,—if infants as well as their parents have a place in the Church as members,—it were difficult to affirm that they have no right to share in the privilege of Baptism, as the seal of the covenant, and the ordinance appointed for the formal admission into the Church of its members. An express prohibition forbidding the administration of the ordinance to them, or an incompatibility no less distinct between the nature of the Sacrament and their condition as infants, might, indeed, force upon us the conclusion that they are excepted. But in the absence of any such exception forced upon us by explicit prohibition or explicit incompatibility, we seem to be warranted in saying that the covenant state of infants and the Church state of infants, fairly demonstrated, unavoidably carry with them the inference that infants are entitled to the administration of Baptism as the seal of the one, and the door of formal admission into the other. The opponents of infant Baptism feel considerable difficulty in giving any explicit or consistent explanation of the relation sustained by infants either to the covenant or to the Church. Some of them deny absolutely that infants have any place either in the covenant or in the visible Church as members; while others of them hesitate about such a sweeping denial in the face of the strong Scripture evidence available to establish the fact, and rather consider infants as possessed of an inchoate and undeveloped right to be members, and as put under the care of the Church in order to be prepared for claiming and exercising the full right afterwards. But the covenant state and the Church state of infants, once fairly established, as they can readily be from Scripture, and the absence of any express bar interposed by Divine authority to the contrary, seem unquestionably to lead to a conclusion in favour of infant Baptism, even were there no further evidence that could be adduced in support of it. But there is much additional evidence at hand. The three propositions which still remain to be discussed and illustrated afford strong additional confirmation of the same conclusion; and, taken along with the positions already established, furnish a complete proof of the lawfulness and duty of baptizing infants.
 
@@ -376,6 +372,6 @@ The evidence by which the position which I have laid down on this subject can be
 
 In conclusion, I remark, that many take up what appears to me a wrong ground on this question, in seeking first to prove that the word βαπτιζω, in the whole wide field in which it occurs, sometimes means to immerse, sometimes to wash, sometimes to sprinkle or pour; and then drawing from that the inference that we may lawfully baptize in any of these ways. It may be perfectly true that in profane literature the word has several meanings, but it by no means follows from that fact that, when used ecclesiastically, and applied definitely to one thing, it has more meanings than one. As employed to denote a definite religious rite, the term Baptism must have but one definite signification. And whatever we hold that to be, we must adhere to it throughout, and in all cases in which the word occurs. The true meaning of Baptism in the New Testament I believe to be purification or cleansing. That purification may be effected either by sprinkling or by immersion, according to the dictates of Christian expediency. The command to baptize is a generic command, which may be carried out in either way with equal lawfulness.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5NzA0ODEzMCw3ODg5NjA5ODAsMTQwNj
+eyJoaXN0b3J5IjpbMTk0MzMwOTAyMCw3ODg5NjA5ODAsMTQwNj
 U2MDI5OSwxNzgyMzY1MjddfQ==
 -->
