@@ -327,7 +327,9 @@ In many cases, the source of the feeling which regards infant Baptism as akin to
 
 But passing from the objections to the relevancy of our argument in favour of infant Baptism, I go on to consider some of the more common objections to the conclusiveness of our reasonings.
 
-1st, Under the head of the objections to the conclusiveness of the reasoning in favour of infant Baptism, I remark, in the first place, that it has been objected against infant Baptism that there is no express or explicit command in the New Testament to administer the ordinance to infants.
+1st, Under the head of the objections to the conclusiveness of the reasoning in favour of infant Baptism, I remark, in the first place, that it has been objected against infant Baptism that there is no express or explicit command in the New Testament to administer the ordinance to infants.[^68]
+
+[^68]: Booth, *Paedobapt. Exam*. Lond. 1829, vol. i. pp. 19-23, 303-367. *Catech. Racov. De Baptismo*, qu. 2.
 
 It is readily admitted that Baptism is a positive institution; and that in regard to the nature and use of positive institutions in the Church of Christ we must be guided solely by the communications of the Word of God in regard to them. But that the objection to infant Baptism from the absence of a positive and articulate formula, enjoining the administration of the Sacrament to infants, is of no real force, can be readily evinced.
 
@@ -416,6 +418,6 @@ The evidence by which the position which I have laid down on this subject can be
 
 In conclusion, I remark, that many take up what appears to me a wrong ground on this question, in seeking first to prove that the word βαπτιζω, in the whole wide field in which it occurs, sometimes means to immerse, sometimes to wash, sometimes to sprinkle or pour; and then drawing from that the inference that we may lawfully baptize in any of these ways. It may be perfectly true that in profane literature the word has several meanings, but it by no means follows from that fact that, when used ecclesiastically, and applied definitely to one thing, it has more meanings than one. As employed to denote a definite religious rite, the term Baptism must have but one definite signification. And whatever we hold that to be, we must adhere to it throughout, and in all cases in which the word occurs. The true meaning of Baptism in the New Testament I believe to be purification or cleansing. That purification may be effected either by sprinkling or by immersion, according to the dictates of Christian expediency. The command to baptize is a generic command, which may be carried out in either way with equal lawfulness.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxMzgwNjkyMSw3ODg5NjA5ODAsMTQwNj
+eyJoaXN0b3J5IjpbMTcwOTIxMzM0Nyw3ODg5NjA5ODAsMTQwNj
 U2MDI5OSwxNzgyMzY1MjddfQ==
 -->
