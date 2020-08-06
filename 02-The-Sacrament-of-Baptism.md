@@ -133,7 +133,7 @@ What, then, is the answer given to this abundant and apparently satisfactory evi
 
 [^27]: [See above, vol. i. pp. 73-80.]
 
-[^28]: Halley, *The Sacraments*, Lond. 1844, vol. i. pp. 488-527, 580-585. Wardlaw, *Dissert. on Infant Baptism*, 3d ed. pp. 291-346. Wilson, Infant Baptism a Scriptural Service, Lond. 1848, pp. 338-381.
+[^28]: Halley, *The Sacraments*, Lond. 1844, vol. i. pp. 488-527, 580-585. Wardlaw, *Dissert. on Infant Baptism*, 3d ed. pp. 291-346. Wilson, *Infant Baptism a Scriptural Service*, Lond. 1848, pp. 338-381.
 
 ## Infant Baptism
 
@@ -336,5 +336,5 @@ The evidence by which the position which I have laid down on this subject can be
 
 In conclusion, I remark, that many take up what appears to me a wrong ground on this question, in seeking first to prove that the word βαπτιζω, in the whole wide field in which it occurs, sometimes means to immerse, sometimes to wash, sometimes to sprinkle or pour; and then drawing from that the inference that we may lawfully baptize in any of these ways. It may be perfectly true that in profane literature the word has several meanings, but it by no means follows from that fact that, when used ecclesiastically, and applied definitely to one thing, it has more meanings than one. As employed to denote a definite religious rite, the term Baptism must have but one definite signification. And whatever we hold that to be, we must adhere to it throughout, and in all cases in which the word occurs. The true meaning of Baptism in the New Testament I believe to be purification or cleansing. That purification may be effected either by sprinkling or by immersion, according to the dictates of Christian expediency. The command to baptize is a generic command, which may be carried out in either way with equal lawfulness.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2Njg3OTMyMiwxNzgyMzY1MjddfQ==
+eyJoaXN0b3J5IjpbNjI2MzI4MzMyLDE3ODIzNjUyN119
 -->
