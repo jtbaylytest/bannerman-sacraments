@@ -8,4 +8,4 @@ by James Bannerman
 Published: 1868.
 
 Available for your reading pleasure here:
-http://beggarsborn.com/bannerman-sacraments/
+https://warhornmedia.github.io/bannerman-sacraments
